@@ -53,6 +53,26 @@ Perintah `git push` digunakan untuk mengirim perubahan dari repositori lokal ke 
 ### 12. `git pull`
 Perintah `git pull` digunakan untuk mengambil (download) perubahan terbaru dari repositori remote dan menggabungkannya dengan branch lokal yang sedang aktif. Ini adalah cara untuk memastikan bahwa repositori lokal kamu selalu terupdate dengan perubahan yang ada di repositori remote.
 
+
+
 ---
 
 Dengan kombinasi perintah-perintah ini, kamu dapat dengan mudah mengelola proyek menggunakan Git, melacak perubahan, dan berkolaborasi dengan tim dalam pengembangan.
+
+---
+
+## Step By Step SSH (By Image)
+- 1 ![Screenshot 2024-11-18 203755](https://github.com/user-attachments/assets/b586b80e-b37b-4e80-922f-249bacbb7022)
+- 2 ![Screenshot 2024-11-18 203917](https://github.com/user-attachments/assets/c39ba619-d8b5-4ca3-a970-31ac8e3dd1b7)
+- 3 ![Screenshot 2024-11-18 204038](https://github.com/user-attachments/assets/d0984871-a1c5-4aa4-b5a8-6fa3d0e4e66f)
+- 4 ![Screenshot 2024-11-18 204103](https://github.com/user-attachments/assets/b68e6eaa-82ad-4e30-9f42-12a228c443d5)
+- 5 ![Screenshot 2024-11-18 204208](https://github.com/user-attachments/assets/b9c44e19-9c82-4348-8b95-d5bea6ac6d96)
+- 6 ![Screenshot 2024-11-18 204301](https://github.com/user-attachments/assets/b2d8d9e9-b3c5-42bb-af45-cc9551872f7b)
+- 7 ![Screenshot 2024-11-18 204312](https://github.com/user-attachments/assets/b2cf16ad-caca-4dd8-a38b-766f5255fb57)
+- 8 ![Screenshot 2024-11-18 204325](https://github.com/user-attachments/assets/084e13cb-1dcb-4292-a067-7ddeb29be071)
+- 9 ![Screenshot 2024-11-18 205954](https://github.com/user-attachments/assets/599139d8-3735-4136-930d-05a93182f177)
+- 10 ![Screenshot 2024-11-18 210207](https://github.com/user-attachments/assets/2f3c7ba7-558c-45ac-9cbe-d82fbb9cf64f)
+- 11 ![Screenshot 2024-11-18 210248](https://github.com/user-attachments/assets/2616c98c-91be-47d3-892c-51d971e5a966)
+- 12 ![Screenshot 2024-11-18 210309](https://github.com/user-attachments/assets/cda35dc2-6392-48d6-a900-ac1217e5d78d)
+- 13 ![Screenshot 2024-11-18 210705](https://github.com/user-attachments/assets/46ea6a6c-0318-45e3-b261-24ebc79b27bb)
+- 14 ![Screenshot 2024-11-18 211310](https://github.com/user-attachments/assets/3bc0f968-eac5-458f-ba2c-292d926014c9)
